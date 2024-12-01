@@ -1,0 +1,241 @@
+[
+    {
+        "cod": 200,
+        "message": "SUCCESS",
+        "found": [
+            {
+                "date_generale": {
+                    "cui": 14399840,
+                    "data": "2024-12-01",
+                    "denumire": "DANTE INTERNATIONAL SA",
+                    "adresa": "MUNICIPIUL BUCURE\u015eTI, SECTOR 2, STR. GARA HER\u0102STR\u0102U, NR.6, CLADIREA GLOBALWORTH SQUARE, ET.1,2,3,5,8",
+                    "nrRegCom": "J40/372/2002",
+                    "telefon": "",
+                    "fax": "",
+                    "codPostal": "",
+                    "act": "",
+                    "stare_inregistrare": "INREGISTRAT din data 29.08.2006",
+                    "data_inregistrare": "2002-01-23",
+                    "cod_CAEN": "4754",
+                    "iban": "",
+                    "statusRO_e_Factura": false,
+                    "organFiscalCompetent": "Direc\u0163ia General\u0103 de Administrare a Marilor Contribuabili",
+                    "forma_de_proprietate": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON SI STRAIN",
+                    "forma_organizare": "PERSOANA JURIDICA",
+                    "forma_juridica": "SOCIETATE COMERCIAL\u0102 PE AC\u0162IUNI"
+                },
+                "inregistrare_scop_Tva": {
+                    "scpTVA": true,
+                    "perioade_TVA": [
+                        {
+                            "data_inceput_ScpTVA": "2002-02-01",
+                            "data_sfarsit_ScpTVA": "",
+                            "data_anul_imp_ScpTVA": "",
+                            "mesaj_ScpTVA": ""
+                        }
+                    ]
+                },
+                "inregistrare_RTVAI": {
+                    "dataInceputTvaInc": "",
+                    "dataSfarsitTvaInc": "",
+                    "dataActualizareTvaInc": "",
+                    "dataPublicareTvaInc": "",
+                    "tipActTvaInc": "",
+                    "statusTvaIncasare": false
+                },
+                "stare_inactiv": {
+                    "dataInactivare": "",
+                    "dataReactivare": "",
+                    "dataPublicare": "",
+                    "dataRadiere": "",
+                    "statusInactivi": false
+                },
+                "inregistrare_SplitTVA": {
+                    "dataInceputSplitTVA": "",
+                    "dataAnulareSplitTVA": "",
+                    "statusSplitTVA": false
+                },
+                "adresa_sediu_social": {
+                    "sdenumire_Strada": "\u015eos. Virtu\u0163ii",
+                    "snumar_Strada": "148",
+                    "sdenumire_Localitate": "Sector 6 Mun. Bucure\u015fti",
+                    "scod_Localitate": "6",
+                    "sdenumire_Judet": "MUNICIPIUL BUCURE\u015eTI",
+                    "scod_Judet": "40",
+                    "scod_JudetAuto": "B",
+                    "stara": "",
+                    "sdetalii_Adresa": "spatiul E47",
+                    "scod_Postal": "60787"
+                },
+                "adresa_domiciliu_fiscal": {
+                    "ddenumire_Strada": "Str. Gara Her\u0103str\u0103u",
+                    "dnumar_Strada": "6",
+                    "ddenumire_Localitate": "Sector 2 Mun. Bucure\u015fti",
+                    "dcod_Localitate": "2",
+                    "ddenumire_Judet": "MUNICIPIUL BUCURE\u015eTI",
+                    "dcod_Judet": "40",
+                    "dcod_JudetAuto": "B",
+                    "dtara": "",
+                    "ddetalii_Adresa": "Cladirea Globalworth Square",
+                    "dcod_Postal": ""
+                }
+            },
+            {
+                "date_generale": {
+                    "cui": 2864518,
+                    "data": "2024-12-01",
+                    "denumire": "ALTEX ROMANIA SRL",
+                    "adresa": "JUD. ILFOV, OR\u015e. VOLUNTARI, \u015eOS. BUCURE\u015eTI NORD, NR.10, CLADIREA GLOBAL CITY BUSINESS PARK, CORPUL O11, ET.9+10",
+                    "nrRegCom": "J23/2611/2016",
+                    "telefon": "",
+                    "fax": "",
+                    "codPostal": "77190",
+                    "act": "",
+                    "stare_inregistrare": "TRANSFER(SOSIRE) din data 23.06.2016",
+                    "data_inregistrare": "1993-02-01",
+                    "cod_CAEN": "4754",
+                    "iban": "",
+                    "statusRO_e_Factura": false,
+                    "organFiscalCompetent": "Direc\u0163ia General\u0103 de Administrare a Marilor Contribuabili",
+                    "forma_de_proprietate": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+                    "forma_organizare": "PERSOANA JURIDICA",
+                    "forma_juridica": "SOCIETATE COMERCIAL\u0102 CU R\u0102SPUNDERE LIMITAT\u0102"
+                },
+                "inregistrare_scop_Tva": {
+                    "scpTVA": true,
+                    "perioade_TVA": [
+                        {
+                            "data_inceput_ScpTVA": "1993-07-01",
+                            "data_sfarsit_ScpTVA": "",
+                            "data_anul_imp_ScpTVA": "",
+                            "mesaj_ScpTVA": ""
+                        }
+                    ]
+                },
+                "inregistrare_RTVAI": {
+                    "dataInceputTvaInc": "",
+                    "dataSfarsitTvaInc": "",
+                    "dataActualizareTvaInc": "",
+                    "dataPublicareTvaInc": "",
+                    "tipActTvaInc": "",
+                    "statusTvaIncasare": false
+                },
+                "stare_inactiv": {
+                    "dataInactivare": "",
+                    "dataReactivare": "",
+                    "dataPublicare": "",
+                    "dataRadiere": "",
+                    "statusInactivi": false
+                },
+                "inregistrare_SplitTVA": {
+                    "dataInceputSplitTVA": "",
+                    "dataAnulareSplitTVA": "",
+                    "statusSplitTVA": false
+                },
+                "adresa_sediu_social": {
+                    "sdenumire_Strada": "\u015eos. Bucure\u015fti Nord",
+                    "snumar_Strada": "10",
+                    "sdenumire_Localitate": "Or\u015f. Voluntari",
+                    "scod_Localitate": "132",
+                    "sdenumire_Judet": "ILFOV",
+                    "scod_Judet": "23",
+                    "scod_JudetAuto": "IF",
+                    "stara": "",
+                    "sdetalii_Adresa": "CLADIREA GLOBAL CITY BUSINESS PARK, CORPUL O11, ETAJELE 9 SI 10",
+                    "scod_Postal": "77190"
+                },
+                "adresa_domiciliu_fiscal": {
+                    "ddenumire_Strada": "\u015eos. Bucure\u015fti Nord",
+                    "dnumar_Strada": "10",
+                    "ddenumire_Localitate": "Or\u015f. Voluntari",
+                    "dcod_Localitate": "132",
+                    "ddenumire_Judet": "ILFOV",
+                    "dcod_Judet": "23",
+                    "dcod_JudetAuto": "IF",
+                    "dtara": "",
+                    "ddetalii_Adresa": "CLADIREA GLOBAL CITY BUSINESS PARK, CORPUL O11, ET.9+10",
+                    "dcod_Postal": "77190"
+                }
+            },
+            {
+                "date_generale": {
+                    "cui": 2816464,
+                    "data": "2024-12-01",
+                    "denumire": "DEDEMAN SRL",
+                    "adresa": "JUD. BAC\u0102U, MUN. BAC\u0102U, STR. ALEXEI TOLSTOI, NR.8",
+                    "nrRegCom": "J04/2621/1992",
+                    "telefon": "0234513330",
+                    "fax": "0234581539",
+                    "codPostal": "600093",
+                    "act": "",
+                    "stare_inregistrare": "INREGISTRAT din data 27.01.1993",
+                    "data_inregistrare": "1993-01-27",
+                    "cod_CAEN": "4752",
+                    "iban": "",
+                    "statusRO_e_Factura": true,
+                    "data_inreg_Reg_RO_e_Factura": "01.07.2022",
+                    "organFiscalCompetent": "Direc\u0163ia General\u0103 de Administrare a Marilor Contribuabili",
+                    "forma_de_proprietate": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+                    "forma_organizare": "PERSOANA JURIDICA",
+                    "forma_juridica": "SOCIETATE COMERCIAL\u0102 CU R\u0102SPUNDERE LIMITAT\u0102"
+                },
+                "inregistrare_scop_Tva": {
+                    "scpTVA": true,
+                    "perioade_TVA": [
+                        {
+                            "data_inceput_ScpTVA": "1993-07-01",
+                            "data_sfarsit_ScpTVA": "",
+                            "data_anul_imp_ScpTVA": "",
+                            "mesaj_ScpTVA": ""
+                        }
+                    ]
+                },
+                "inregistrare_RTVAI": {
+                    "dataInceputTvaInc": "",
+                    "dataSfarsitTvaInc": "",
+                    "dataActualizareTvaInc": "",
+                    "dataPublicareTvaInc": "",
+                    "tipActTvaInc": "",
+                    "statusTvaIncasare": false
+                },
+                "stare_inactiv": {
+                    "dataInactivare": "",
+                    "dataReactivare": "",
+                    "dataPublicare": "",
+                    "dataRadiere": "",
+                    "statusInactivi": false
+                },
+                "inregistrare_SplitTVA": {
+                    "dataInceputSplitTVA": "",
+                    "dataAnulareSplitTVA": "",
+                    "statusSplitTVA": false
+                },
+                "adresa_sediu_social": {
+                    "sdenumire_Strada": "Str. Alexei Tolstoi",
+                    "snumar_Strada": "8",
+                    "sdenumire_Localitate": "Mun. Bac\u0103u",
+                    "scod_Localitate": "11",
+                    "sdenumire_Judet": "BAC\u0102U",
+                    "scod_Judet": "4",
+                    "scod_JudetAuto": "BC",
+                    "stara": "",
+                    "sdetalii_Adresa": "",
+                    "scod_Postal": "600093"
+                },
+                "adresa_domiciliu_fiscal": {
+                    "ddenumire_Strada": "Str. Alexei Tolstoi",
+                    "dnumar_Strada": "8",
+                    "ddenumire_Localitate": "Mun. Bac\u0103u",
+                    "dcod_Localitate": "11",
+                    "ddenumire_Judet": "BAC\u0102U",
+                    "dcod_Judet": "4",
+                    "dcod_JudetAuto": "BC",
+                    "dtara": "",
+                    "ddetalii_Adresa": "",
+                    "dcod_Postal": "600093"
+                }
+            }
+        ],
+        "notFound": []
+    }
+]
